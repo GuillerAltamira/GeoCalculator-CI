@@ -9,7 +9,7 @@ namespace GeoApp
     {
         public FormRectangulo()
         {
-            this.Text = "Area del Rectángulo";
+            this.Text = "Calculo de area - Rectangulo";
             this.Size = new Size(300, 220);
 
             Label lblBase = new Label { Text = "Base:", Location = new Point(20, 20) };
@@ -37,3 +37,4 @@ namespace GeoApp
         }
     }
 }
+
