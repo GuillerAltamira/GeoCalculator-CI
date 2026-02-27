@@ -10,6 +10,7 @@ C:\Actividad_6\GeoCalculator-CI\GeoApp\obj\Debug\net9.0-windows\GeoApp.Generated
 C:\Actividad_6\GeoCalculator-CI\GeoApp\obj\Debug\net9.0-windows\GeoApp.AssemblyInfoInputs.cache
 C:\Actividad_6\GeoCalculator-CI\GeoApp\obj\Debug\net9.0-windows\GeoApp.AssemblyInfo.cs
 C:\Actividad_6\GeoCalculator-CI\GeoApp\obj\Debug\net9.0-windows\GeoApp.csproj.CoreCompileInputs.cache
+C:\Actividad_6\GeoCalculator-CI\GeoApp\obj\Debug\net9.0-windows\GeoApp.sourcelink.json
 C:\Actividad_6\GeoCalculator-CI\GeoApp\obj\Debug\net9.0-windows\GeoApp.csproj.Up2Date
 C:\Actividad_6\GeoCalculator-CI\GeoApp\obj\Debug\net9.0-windows\GeoApp.dll
 C:\Actividad_6\GeoCalculator-CI\GeoApp\obj\Debug\net9.0-windows\refint\GeoApp.dll
