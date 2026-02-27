@@ -24,6 +24,19 @@ namespace GeoApp
             };
 
             this.Controls.Add(btnRectangulo);
+
+            // 🔵 BOTÓN CÍRCULO
+            Button btnCirculo = new Button();
+            btnCirculo.Text = "Círculo";
+            btnCirculo.Size = new Size(150, 40);
+            btnCirculo.Location = new Point(120, 160);
+
+            btnCirculo.Click += (s, e) =>
+            {
+              new FormCirculo().Show();
+            };
+
+            this.Controls.Add(btnCirculo);
         }
     }
 }
