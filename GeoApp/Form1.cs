@@ -12,7 +12,7 @@ namespace GeoApp
             this.Size = new Size(400, 300);
             this.StartPosition = FormStartPosition.CenterScreen;
 
-            // 🔵 BOTÓN RECTÁNGULO
+           
             Button btnRectangulo = new Button();
             btnRectangulo.Text = "Rectangulo";
             btnRectangulo.Size = new Size(150, 40);
@@ -25,7 +25,7 @@ namespace GeoApp
 
             this.Controls.Add(btnRectangulo);
 
-            // 🔵 BOTÓN CÍRCULO
+            
             Button btnCirculo = new Button();
             btnCirculo.Text = "Círculo";
             btnCirculo.Size = new Size(150, 40);
@@ -38,7 +38,7 @@ namespace GeoApp
 
             this.Controls.Add(btnCirculo);
 
-            // 🔺 BOTÓN TRIÁNGULO
+           
             Button btnTriangulo = new Button();
             btnTriangulo.Text = "Triángulo";
             btnTriangulo.Size = new Size(150, 40);
