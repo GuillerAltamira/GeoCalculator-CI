@@ -37,6 +37,19 @@ namespace GeoApp
             };
 
             this.Controls.Add(btnCirculo);
+
+            // 🔺 BOTÓN TRIÁNGULO
+            Button btnTriangulo = new Button();
+            btnTriangulo.Text = "Triángulo";
+            btnTriangulo.Size = new Size(150, 40);
+            btnTriangulo.Location = new Point(120, 220);
+
+            btnTriangulo.Click += (s, e) =>
+            {
+              new FormTriangulo().Show();
+            };
+
+            this.Controls.Add(btnTriangulo);
         }
     }
 }
