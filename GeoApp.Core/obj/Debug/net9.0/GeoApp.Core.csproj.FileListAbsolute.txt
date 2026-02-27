@@ -1,0 +1,11 @@
+C:\Actividad_6\GeoCalculator-CI\GeoApp.Core\bin\Debug\net9.0\GeoApp.Core.deps.json
+C:\Actividad_6\GeoCalculator-CI\GeoApp.Core\bin\Debug\net9.0\GeoApp.Core.dll
+C:\Actividad_6\GeoCalculator-CI\GeoApp.Core\bin\Debug\net9.0\GeoApp.Core.pdb
+C:\Actividad_6\GeoCalculator-CI\GeoApp.Core\obj\Debug\net9.0\GeoApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Actividad_6\GeoCalculator-CI\GeoApp.Core\obj\Debug\net9.0\GeoApp.Core.AssemblyInfoInputs.cache
+C:\Actividad_6\GeoCalculator-CI\GeoApp.Core\obj\Debug\net9.0\GeoApp.Core.AssemblyInfo.cs
+C:\Actividad_6\GeoCalculator-CI\GeoApp.Core\obj\Debug\net9.0\GeoApp.Core.csproj.CoreCompileInputs.cache
+C:\Actividad_6\GeoCalculator-CI\GeoApp.Core\obj\Debug\net9.0\GeoApp.Core.dll
+C:\Actividad_6\GeoCalculator-CI\GeoApp.Core\obj\Debug\net9.0\refint\GeoApp.Core.dll
+C:\Actividad_6\GeoCalculator-CI\GeoApp.Core\obj\Debug\net9.0\GeoApp.Core.pdb
+C:\Actividad_6\GeoCalculator-CI\GeoApp.Core\obj\Debug\net9.0\ref\GeoApp.Core.dll
