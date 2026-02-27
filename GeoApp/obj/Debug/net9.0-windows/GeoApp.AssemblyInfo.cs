@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeoApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+717a044763663debc138e44891a3cbbec0f012cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23351fefa65b1be09331a3881dde6d4c0d91e4f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeoApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeoApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
